@@ -1,4 +1,6 @@
 # Project2
 
 Here intially we are making code in local without cloning any repo
-then want to push to our github account
+Then want to push to our github account
+Created by Harsh 
+jain
